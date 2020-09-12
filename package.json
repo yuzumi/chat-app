@@ -19,6 +19,8 @@
   "homepage": "https://github.com/yuzumi/chat-app#readme",
   "dependencies": {
     "apollo-server": "^2.17.0",
-    "graphql": "^15.3.0"
+    "graphql": "^15.3.0",
+    "mysql2": "^2.1.0",
+    "sequelize": "^6.3.5"
   }
 }
